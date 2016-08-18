@@ -10,15 +10,9 @@ color:
   lightness: 0.8000688797328621
   rhythmicContrast: 0.5916984097566456
 analytics:
-  twitter: null
-  google: null
   facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
-favicon: null
-layout_spectrum: 0.1643388757947832
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -31,6 +25,12 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  version: null
+  bucket: null
+favicon: null
+layout_spectrum: 0.1643388757947832
 purpose: []
 name: HDR Video
 opengraph:
